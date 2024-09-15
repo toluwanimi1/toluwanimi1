@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio and a church website<br>👯 I’m looking to collaborate on open source applications<br>🌱 I’m currently learning web development <br>💬 Ask me about my goals<br>⚡ 
+🔭 I’m currently working on my portfolio and a church website<br>👯 I’m looking to collaborate on open source applications<br>🌱 I’m currently learning web development <br>💬 Ask me about my goals and work opportunities  
 
 
 ## 🌐 Socials:
